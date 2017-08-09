@@ -1,0 +1,2 @@
+# OTA-1
+OTA for RR i9500
