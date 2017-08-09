@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ja3gxx>
-            <Filename>RR-N-v5.8.4-20170809-ja3gxx-Official.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170808-ja3gxx-Weekly.zip</Filename>
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
