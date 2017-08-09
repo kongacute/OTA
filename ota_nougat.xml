@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ja3gxx>
-            <Filename>RR-N-v5.8.4-20170808-ja3gxx-Weekly.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170809-ja3gxx-Official.zip</Filename>
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
-                description="Latest stable Resurrection Remix build">https://drive.google.com/open?id=0B3-YioqZRf1RbDdnT3haSGM1dEU</LastestStableUrl>
+                description="Latest stable Resurrection Remix build">https://drive.google.com/open?id=0B3-YioqZRf1ReVlQSE9HUUFuVmc</LastestStableUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
