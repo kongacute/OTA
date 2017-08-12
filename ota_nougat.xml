@@ -31,10 +31,10 @@
                 id="changeloglos"
                 title="Changelog for Lineage base"
                 description="View changes in Lineage base">https://github.com/exynos5410/weekly_ota/blob/cm-14.1/CHANGELOG.md</ChangelogLOSUrl>
-            <Fix
+            <FixUrl
 		 id="fix"
 		 title="Some fix for RR"
-		 description="Download some fix for Resurrection Remix">https://drive.google.com/open?id=0B3-YioqZRf1RT2g1TVZOQzYxYlk</Fix>
+		 description="Download some fix for Resurrection Remix">https://drive.google.com/open?id=0B3-YioqZRf1RT2g1TVZOQzYxYlk</FixUrl>
 	    <XDAUrl
             	id="XDA"
             	title="XDA Thread"
