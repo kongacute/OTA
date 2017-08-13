@@ -33,8 +33,8 @@
                 description="View changes in Lineage base">https://github.com/exynos5410/weekly_ota/blob/cm-14.1/CHANGELOG.md</ChangelogLOSUrl>
             <FixnappsUrl
 		 id="fixnapps"
-		 title="Some fix & apps for RR"
-		 description="Download fix & apps for Resurrection Remix">https://drive.google.com/open?id=0B3-YioqZRf1RT2g1TVZOQzYxYlk</FixnappsUrl>
+		 title="Some fix and apps for RR"
+		 description="Download fix and apps for Resurrection Remix">https://drive.google.com/open?id=0B3-YioqZRf1RT2g1TVZOQzYxYlk</FixnappsUrl>
 	    <XDAUrl
             	id="XDA"
             	title="XDA Thread"
