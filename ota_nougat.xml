@@ -6,7 +6,7 @@
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
-                description="Latest stable Resurrection Remix build">https://drive.google.com/open?id=0B3-YioqZRf1RZHU5MjhzVWVYTlk</LastestStableUrl>
+                description="Lastest stable Resurrection Remix build">https://drive.google.com/open?id=0B3-YioqZRf1RZHU5MjhzVWVYTlk</LastestStableUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
