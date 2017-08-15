@@ -6,11 +6,11 @@
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
-                description="Lastest stable Resurrection Remix build">https://drive.google.com/open?id=0B3-YioqZRf1RZHU5MjhzVWVYTlk</LastestStableUrl>
+                description="Lastest stable Resurrection Remix build">https://www.androidfilehost.com/?fid=889764386195923138</LastestStableUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
-                description="Download old stable Resurrection Remix builds">https://drive.google.com/open?id=0B3-YioqZRf1RX1g0NkRyekw0Ym8</OldStableUrl>
+                description="Download old stable Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=206923</OldStableUrl>
             <LastestTestUrl
                 id="lastesttest"
                 title="Lastest test build"
@@ -18,7 +18,7 @@
             <OldtestUrl
 		id="oldtest"
 		title="Old test builds"
-		description="Download old Resurrection Remix test builds">https://drive.google.com/open?id=0B3-YioqZRf1ReFI0UFV6WFBmdDg</OldtestUrl>
+		description="Download old Resurrection Remix test builds">https://www.androidfilehost.com/?w=files&flid=206875</OldtestUrl>
 	    <GappsUrl
                 id="gapps"
                 title="OpenGApps"
