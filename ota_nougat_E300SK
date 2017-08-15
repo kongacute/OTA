@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <ja3gxx>
-            <Filename>RR-N-v5.8.4-20170812-ja3gxx-Official.zip</Filename>
-            <LastestStableUrl
-                id="lasteststable"
-                title="Lastest stable build"
-                description="Lastest stable Resurrection Remix build">https://drive.google.com/open?id=0B3-YioqZRf1RZHU5MjhzVWVYTlk</LastestStableUrl>
+        <jalteskt>
+            <Filename> RR-N-v5.8.4-20170815-jalteskt-Unofficial.zip</Filename>
+            <LastestUrl
+                id="lastest"
+                title="Lastest build"
+                description="Lastest stable Resurrection Remix build">https://www.androidfilehost.com/?fid=673368273298978842</LastestUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
                 description="Download old stable Resurrection Remix builds">https://drive.google.com/open?id=0B3-YioqZRf1RX1g0NkRyekw0Ym8</OldStableUrl>
-            <LastestTestUrl
-                id="lastesttest"
-                title="Lastest test build"
-                description="Download lastest Resurrection Remix test build">https://drive.google.com/open?id=0B3-YioqZRf1RRXZZdVgwSHFqTnc</LastestTestUrl>
-            <OldtestUrl
-		id="oldtest"
-		title="Old test builds"
-		description="Download old Resurrection Remix test builds">https://drive.google.com/open?id=0B3-YioqZRf1ReFI0UFV6WFBmdDg</OldtestUrl>
             <GappsUrl
                 id="gapps"
                 title="OpenGApps"
@@ -39,6 +31,6 @@
             	id="XDA"
             	title="XDA Thread"
             	description="Visit Resurrection Remix for i9500 XDA thread">https://forum.xda-developers.com/galaxy-s4/i9500-develop/resurrection-remix-n-t3650856</XDAUrl>
-	 </ja3gxx>
+	 </jalteskt>
     </Stable>
 </SlimOTA>
