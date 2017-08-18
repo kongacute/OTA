@@ -6,19 +6,19 @@
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
-                description="Lastest stable Resurrection Remix build">https://www.androidfilehost.com/?fid=889764386195923138</LastestStableUrl>
+                description="Lastest stable Resurrection Remix build">https://sourceforge.net/projects/resurrectionremix/files/i9500/Stable%20builds/RR-N-v5.8.4-20170812-ja3gxx-Official.zip/download8</LastestStableUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
-                description="Download old stable Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=206923</OldStableUrl>
+                description="Download old stable Resurrection Remix builds">https://sourceforge.net/projects/resurrectionremix/files/i9500/Stable%20builds/Old%20builds/</OldStableUrl>
             <LastestTestUrl
                 id="lastesttest"
                 title="Lastest test build"
-                description="Download lastest Resurrection Remix test build">https://www.androidfilehost.com/?fid=673368273298978841</LastestTestUrl>
+                description="Download lastest Resurrection Remix test build">https://sourceforge.net/projects/resurrectionremix/files/i9500/Test%20builds/RR-N-v5.8.4-20170815-ja3gxx-Official.zip/download</LastestTestUrl>
             <OldtestUrl
 		id="oldtest"
 		title="Old test builds"
-		description="Download old Resurrection Remix test builds">https://www.androidfilehost.com/?w=files&flid=206875</OldtestUrl>
+		description="Download old Resurrection Remix test builds">https://sourceforge.net/projects/resurrectionremix/files/i9500/Test%20builds/Old%20builds/</OldtestUrl>
 	    <GappsUrl
                 id="gapps"
                 title="OpenGApps"
