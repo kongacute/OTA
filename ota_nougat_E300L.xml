@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <jalteskt>
+            <Filename> RR-N-v5.8.4-20170815-jalteskt-Unofficial.zip</Filename>
+            <LastestUrl
+                id="lastest"
+                title="Lastest build"
+                description="Lastest Resurrection Remix build">https://www.androidfilehost.com/?fid=673368273298978842</LastestUrl>
+            <OldUrl
+                id="old"
+                title="Old builds"
+                description="Download old Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=206881</OldStableUrl>
+            <GappsUrl
+                id="gapps"
+                title="OpenGApps"
+                description="Download Open Gapps">http://opengapps.org/</GappsUrl>
+	    <ChangelogRRUrl
+		id="changelogrr"
+		title="Changelog for Resurrection Remix"
+		description="View changes in Resurrection Remix ROM">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogRRUrl>
+	    <ChangelogLOSUrl
+                id="changeloglos"
+                title="Changelog for Lineage base"
+                description="View changes in Lineage base">https://github.com/exynos5410/weekly_ota/blob/cm-14.1/CHANGELOG.md</ChangelogLOSUrl>
+	    <XDAUrl
+            	id="XDA"
+            	title="XDA Thread"
+            	description="Visit Resurrection Remix for i9500 XDA thread">https://forum.xda-developers.com/galaxy-s4/i9500-develop/resurrection-remix-n-t3650856</XDAUrl>
+	 </jalteskt>
+    </Stable>
+</SlimOTA>
