@@ -23,10 +23,6 @@
                 id="changeloglos"
                 title="Changelog for Lineage base"
                 description="View changes in Lineage base">https://github.com/exynos5410/weekly_ota/blob/cm-14.1/CHANGELOG.md</ChangelogLOSUrl>
-            <FixnappsUrl
-		 id="fixnapps"
-		 title="Some fix and apps for RR"
-		 description="Download fix and apps for Resurrection Remix">https://www.androidfilehost.com/?w=files&flid=206868</FixnappsUrl>
 	    <XDAUrl
             	id="XDA"
             	title="XDA Thread"
