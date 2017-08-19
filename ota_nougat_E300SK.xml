@@ -3,14 +3,10 @@
     <Stable>
         <jalteskt>
             <Filename> RR-N-v5.8.4-20170815-jalteskt-Unofficial.zip</Filename>
-            <LastestUrl
-                id="lastest"
-                title="Lastest build"
-                description="Lastest Resurrection Remix build">https://www.androidfilehost.com/?fid=673368273298978842</LastestUrl>
-            <OldUrl
-                id="old"
-                title="Old builds"
-                description="Download old Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=206881</OldStableUrl>
+            <RomUrl
+                id="rom"
+                title="Download"
+                description="Download Resurrection Remix build">https://www.androidfilehost.com/?fid=745425885120756454</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="OpenGApps"
