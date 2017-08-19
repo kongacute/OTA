@@ -2,15 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <jalteskt>
-            <Filename> RR-N-v5.8.4-20170815-jalteskt-Unofficial.zip</Filename>
-            <LastestUrl
-                id="lastest"
-                title="Lastest build"
-                description="Lastest Resurrection Remix build">https://www.androidfilehost.com/?fid=673368273298978842</LastestUrl>
-            <OldUrl
-                id="old"
-                title="Old builds"
-                description="Download old Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=206881</OldStableUrl>
+            <Filename>RR-N-v5.8.4-20170819-jaltelgt-Unofficial.zip</Filename>
+            <RomtUrl
+                id="rom"
+                title="Download"
+                description="Download Resurrection Remix">https://www.androidfilehost.com/?fid=673368273298979672</LastestUrl>
             <GappsUrl
                 id="gapps"
                 title="OpenGApps"
