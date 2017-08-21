@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ja3gxx>
-            <Filename>RR-N-v5.8.4-20170818-ja3gxx-Official.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170821-ja3gxx-Official.zip</Filename>
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
-                description="Lastest stable Resurrection Remix build">https://sourceforge.net/projects/resurrectionremix/files/i9500/Stable%20builds/RR-N-v5.8.4-20170818-ja3gxx-Official.zip/download</LastestStableUrl>
+                description="Lastest stable Resurrection Remix build">https://www.androidfilehost.com/?fid=745425885120756924</LastestStableUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
@@ -31,6 +31,10 @@
                 id="changeloglos"
                 title="Changelog for Lineage base"
                 description="View changes in Lineage base">https://github.com/exynos5410/weekly_ota/blob/cm-14.1/CHANGELOG.md</ChangelogLOSUrl>
+	    <ModUrl
+		id="mod"
+	   	title="MOD for RR"
+		description="For who like my mod, download and flash it">https://www.androidfilehost.com/?fid=673368273298980166</ModUrl>
 	    <XDAUrl
             	id="XDA"
             	title="XDA Thread"
