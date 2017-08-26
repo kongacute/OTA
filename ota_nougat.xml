@@ -31,7 +31,7 @@
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
-                description="Lastest stable Resurrection Remix build">https://www.androidfilehost.com/?fid=673368273298981047</LastestStableUrl>
+                description="Lastest stable Resurrection Remix build">https://sourceforge.net/projects/resurrectionremix/files/i9500/RR-N-v5.8.4-20170825-ja3gxx-Official.zip/download</LastestStableUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
