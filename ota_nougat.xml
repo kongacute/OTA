@@ -36,10 +36,6 @@
                 id="oldstable"
                 title="Old stable builds"
                 description="Download old stable Resurrection Remix builds">https://sourceforge.net/projects/resurrectionremix/files/i9500/Stable%20builds/Old%20builds/</OldStableUrl>
-            <LastestTestUrl
-                id="lastesttest"
-                title="Lastest test build"
-                description="Download lastest Resurrection Remix test build"https://www.androidfilehost.com/?fid=673368273298978957/download</LastestTestUrl>
 	    <GappsUrl
                 id="gapps"
                 title="OpenGApps"
