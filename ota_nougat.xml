@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ja3gxx>
-            <Filename>RR-N-v5.8.5-20170929-ja3gxx-Final.zip</Filename>
+            <Filename>RR-N-v5.8.5-20171002-ja3gxx-Final.zip</Filename>
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
-                description="Lastest stable Resurrection Remix build">https://www.androidfilehost.com/?fid=962021903579481184</LastestStableUrl>
+                description="Lastest Resurrection Remix build">https://www.androidfilehost.com/?fid=962021903579481963</LastestStableUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
-                description="Download old stable Resurrection Remix builds">https://sourceforge.net/projects/resurrectionremix/files/i9500/Stable%20builds/Old%20builds/</OldStableUrl>
+                description="Download old Resurrection Remix builds">https://sourceforge.net/projects/resurrectionremix/files/i9500/Stable%20builds/Old%20builds/</OldStableUrl>
 	    <GappsUrl
                 id="gapps"
                 title="OpenGApps"
@@ -35,11 +35,11 @@
     </Stable>
     <Stable>
         <jalteskt>
-            <Filename>RR-N-v5.8.4-20170917-jalteskt-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.5-20171002-jalteskt-Unofficial.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download"
-                description="Download Resurrection Remix build">https://www.androidfilehost.com/?fid=961840155545596508</RomUrl>
+                description="Download Resurrection Remix build">https://www.androidfilehost.com/?fid=889964283620755241</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="OpenGApps"
