@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ja3gxx>
-            <Filename>RR-N-v5.8.5-20180102-ja3gxx-Final.zip</Filename>
+            <Filename>RR-N-v5.8.5-20180510-ja3gxx-Final.zip</Filename>
             <LastestStableUrl
                 id="lasteststable"
                 title="Lastest stable build"
-                description="Lastest Resurrection Remix build">https://www.androidfilehost.com/?fid=817906626617956152</LastestStableUrl>
+                description="Lastest Resurrection Remix build">https://www.androidfilehost.com/?fid=746163614322263530</LastestStableUrl>
             <OldStableUrl
                 id="oldstable"
                 title="Old stable builds"
